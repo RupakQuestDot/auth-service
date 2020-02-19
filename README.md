@@ -1,6 +1,6 @@
 # auth-service
 
-This project acts authorisation service where a user can register and login with a unique key generatd to them Built with **NodeJs**,  **ExpressJS** & **MongoDB**.
+This project acts as authorisation service where a user can register and login with a unique key generatd to them Built with **NodeJs**,  **ExpressJS** & **MongoDB**.
 
 
 ## Setup
