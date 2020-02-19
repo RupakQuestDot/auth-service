@@ -1,4 +1,4 @@
-# backend-service
+# auth-service
 
 This project acts a backend service which can allow a user to post product details along with a file upload feature. Built wit **NodeJs**,  **ExpressJS** & **MongoDB**.
 
