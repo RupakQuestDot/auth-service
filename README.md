@@ -1,9 +1,9 @@
 # auth-service
 
-This project acts a backend service which can allow a user to post product details along with a file upload feature. Built wit **NodeJs**,  **ExpressJS** & **MongoDB**.
+This project acts authorisation service where a user can register and login with a unique key generatd to them Built with **NodeJs**,  **ExpressJS** & **MongoDB**.
 
 
-## Devlopment
+## Setup
 
 1. Clone the Repo:
 ```
