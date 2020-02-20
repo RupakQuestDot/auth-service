@@ -50,3 +50,16 @@ DB_URL = "ADD YOUR OWN DB URL"
 
 ### Testing 
 Use Postman as GUI tool to test the api end points.
+
+## API END POINTS
+
+Once run the application. Then navigate to url `localhost:8082/api/` method `GET` you will get the response as `'Welcome to CRUD USER AUTH API @8082..!'`.
+
+1. Regitsering a user HTTP METHOD ==> `POST` , URL : `localhost:8082/api/users/register`. Register user with `name, password, role`. **All fields are manditory**.
+
+2. Sign In a user HTTP METHOD ==> `POST`, URL: `localhost:8082/api/auth/login`. Login with entries `name, password`.
+ On sucessful login you will get a token which is a autherisation token. This token can be used for further operations.
+
+3. List ALL Users HTTP METHOD ==> `GET`, URL: `localhost:8082/api/users`. You will be able to fetch all the users from the Database.
+
+
