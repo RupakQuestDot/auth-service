@@ -35,5 +35,5 @@ app.get('/', (req, res) => res.send('Welcome to CRUD APP'));
 app.use('/api', apiRoutes);
 
 app.listen(port, function () {
-     console.log("Running CRUD APP on port " + port);
+     console.log("Running USER AUTH APP on port " + port);
 });
